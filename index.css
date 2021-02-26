@@ -1,0 +1,60 @@
+body{
+  margin: 0 10px 15px;
+}
+#image {
+    background-image: url(persona.jpeg);
+    position: absolute;
+width: 355px;
+height: 713px;
+left: 0px;
+top: 0px;
+background-position-x: -500px;
+background-size: 1070px;
+
+}
+
+#main{
+  position: absolute;
+  width: 1440px;
+  left: 390px;
+  top: 10px;
+  
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+  
+}
+#main2{
+  position: absolute;
+  width: 1440px;
+  left: 390px;
+  top: 53px;
+  
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  
+  color: #666666;
+}
+
+#second {
+  position: absolute;
+  width: 1440px;
+height: 600px;
+left: 355px;
+top: 113px;
+
+background: #F9F9F9;
+  
+  
+}
+.par{
+position: relative;
+left: 35px;
+}
